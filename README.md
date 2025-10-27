@@ -190,8 +190,7 @@ react-dashboard/
 - Todos: `https://jsonplaceholder.typicode.com/todos`
 
 ### OpenWeatherMap
-- Current Weather: `https://api.openweathermap.org/data/2.5/weather`
-- Weather Icons: `https://openweathermap.org/img/wn/[icon]@2x.png`
+- You can get a free API key from [OpenWeather](https://openweathermap.org/api).
 
 ## 🎨 Styling Approach
 
